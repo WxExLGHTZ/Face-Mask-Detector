@@ -1,4 +1,4 @@
-# Maskenerkennung
+# Face Mask Detector
 
 A real-time face mask detection system that uses a custom-trained Haar cascade classifier with OpenCV, displays a live camera feed in a Qt desktop application, and communicates the detection result to an Arduino over serial to control indicator LEDs.
 
